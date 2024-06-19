@@ -1,0 +1,2 @@
+# AWS-STATIC-WEBSITE
+Documentation to create AWS-STATIC-WEBSITE
